@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/author/nelson-bighetti/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/author/nelson-bighetti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/author/nelson-bighetti/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/post/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ukharova.github.io/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ukharova.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://ukharova.github.io/ru/"
+                />
+  </url>
+  
+</urlset>
